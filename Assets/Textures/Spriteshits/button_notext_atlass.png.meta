@@ -1,0 +1,2102 @@
+fileFormatVersion: 2
+guid: a61d188df1271c34fb806059fcc24be0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: button_notext_atlass_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3038
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249fa70ef16703449a95786dd2b7ea0b
+      internalID: -799209819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3038
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1467a67dcce423048b34827622a34225
+      internalID: -683245037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_2
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3038
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533a43ecb3e08d44bb6332d5400ba139
+      internalID: 861062241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_3
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3038
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd927c15ebda3b4ab211a7888f55d97
+      internalID: 990867558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_4
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3038
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fc6ad672bc83d48b3a08d820cfd9aa
+      internalID: 583501240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_5
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3038
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67011c7c4716e9043b77425cb60cf7b1
+      internalID: 1296138262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2821
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c21d698d53460d4b89b6856010c0526
+      internalID: 1966465408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2821
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4007bc8e964524148855c6f052291407
+      internalID: -39258280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_8
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2821
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc8e842e72281e4bbec2437fb8c0547
+      internalID: 650280988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_9
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2821
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dea492d884e98e4c827ceb3fdf4d5ce
+      internalID: 161506933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_10
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2821
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678c47304e570334f8bd0d7e23ab3d14
+      internalID: -775239541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_11
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2821
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7ba76c4ffd6314ab530fe71f2b33b7
+      internalID: 1000554737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2604
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25bfd5380bfa8047aecf6d45fe1429e
+      internalID: -1856167401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_13
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2604
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef582b950c873c240b7c027a26142edd
+      internalID: -843318876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2604
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155adb56034f9b54d85f46ff7feb84bb
+      internalID: 1227026435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_15
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2604
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b2a79a957c9864fb833de3bf0fb963
+      internalID: -2124860477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_16
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2604
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef17ec4e22ac13847a2df791a9da5de6
+      internalID: 664922157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_17
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2604
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73626276a608e004d94611c476bb5521
+      internalID: 2075610519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2387
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e32f179006d01840900ab9667ef2757
+      internalID: -1073944977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_19
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2387
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231a59b8cb7766542918b58acf35061a
+      internalID: 1200312000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_20
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2387
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc4de6962f6c1145b18fbe98d341d1a
+      internalID: -1129575224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_21
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2387
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8978ceea3c128864b976c5adf7e5f586
+      internalID: -2119703637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_22
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2387
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096c7b9b3d127af4997495328db1db9b
+      internalID: -574087810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_23
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2387
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90019027782c3c4db83261a05a20ce4
+      internalID: 167351804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2170
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b622d7c82758d4d955c26b00605f2e
+      internalID: -1578124197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_25
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2170
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b000c87a9fbd645a9c5ddfac743c6a
+      internalID: -519110973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_26
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2170
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8eb3e41beccce24c8f8d19c46b81561
+      internalID: -919457195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_27
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2170
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c09666daa14744c81994ab4c82f856
+      internalID: 77415372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_28
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2170
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e170963e8296c924b890d4f0810adc83
+      internalID: -1798077407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_29
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2170
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25adfb96f09af5f44863a3eb6f06931b
+      internalID: 214810327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1953
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541549401fc075144ae4b3427ab97ae8
+      internalID: -1580529629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_31
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1953
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cf9a35aae13e4459f1fc751c38563a
+      internalID: -524576926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_32
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1953
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc19b973ae7d59740ae500763c2097f5
+      internalID: -1039308347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_33
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1953
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c99568861091b4499ff246555913cb
+      internalID: -1899080012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_34
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1953
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc79f811ab94aa0488d35de6ebcfc14e
+      internalID: -660987237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_35
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1953
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22e7ec921d23dd44862d4c46ed8a696
+      internalID: 1944537759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1736
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc186e810050f30438ffb3b678266beb
+      internalID: -1042243495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1736
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5630ac3e8bea634448da747a1599debf
+      internalID: -1465915492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_38
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1736
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3668cfe18ea08f64899263d7e7a42a21
+      internalID: 287328129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_39
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1736
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f102a37c1eb0a34aa140dcac4f4e949
+      internalID: 1467776267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_40
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1736
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29beee1b107c27b4faa46e16fc9cd7b5
+      internalID: -919367281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_41
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1736
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d38ffc4660c2347ada4014ff8c518e
+      internalID: -988100683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1519
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6da64db17f47c645aef15e0f6aeeef6
+      internalID: -1622757179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_43
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1519
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c125611950c10eb4aa52c264acd0776b
+      internalID: 164692793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_44
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1519
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159b5049768c2e146828f857e6ecc209
+      internalID: 1402176970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_45
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1519
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca7c56cad398ee4b9d3e606770cf4bd
+      internalID: 1327464642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_46
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1519
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc09c8d98e29e6468df836a669aca17
+      internalID: -796286589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_47
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1519
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c2f9201fe651048ad18dee576849fd
+      internalID: 739023227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1302
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2824573f49250488b020ae7c14f95b
+      internalID: 1088225906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_49
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1302
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d52d44f42f270e4c871a9c4c624d357
+      internalID: -1582706288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_50
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1302
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865c37ff8b22a0740bce61b2a0855516
+      internalID: -1186519414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_51
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1302
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa04c3c541f92c843bdfea2dc6ecdbbb
+      internalID: 1349170117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_52
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1302
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2015b9835070e364c88b9ab4693fda1f
+      internalID: 2114264581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_53
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1302
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1ab54b334629a46aaf40dbce43961b
+      internalID: 1779082642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1085
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3210c026db8cb4a82744bbfcf95be6
+      internalID: 543328182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_55
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1085
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6512ed2712d477440b20e9e642f0f536
+      internalID: 1730254787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_56
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1085
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdddfbd1ca96a845800bacf6c679054
+      internalID: -1001785886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_57
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1085
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5738b35a5dd13994e865ebed4c49f45a
+      internalID: 591323094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_58
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1085
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f7a50c0024ce344abb83ed3075fe84
+      internalID: -213579480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_59
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1085
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6509dcaaca89d1541be410230019f314
+      internalID: -1123497409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 868
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5ced703a9b6fd44ad8a3f99949cdad
+      internalID: 796664155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_61
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 868
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72560d457b91c64ea919fc97a67c6f8
+      internalID: 1283989608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_62
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 868
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088cf1ff1d5f6594e97145942a3d06e3
+      internalID: -316047355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_63
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 868
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3192df62bc51cd6428ed49a268ba1eef
+      internalID: 1640267312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_64
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 868
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14d2daaa5b1a04449ce575b896e2dd9
+      internalID: -1605157585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_65
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 868
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daf1524a1a9ac84580a97fdf307d4cd
+      internalID: 576760652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 651
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4771ee8518c16544a8f934257034f5d7
+      internalID: 1225741480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 651
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ff2cfd472e66849af0f67edd7cb98f
+      internalID: -1733033179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_68
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 651
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79047125eabbc5a4ebd0a835cb380696
+      internalID: -1551074609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_69
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 651
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106b4f4091a2e2f42b38e464dc9e7b43
+      internalID: -1395085965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_70
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 651
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d74b3cd6f8762469342ea8cc9b82fc
+      internalID: -749816500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_71
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 651
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97643238d42af34c84c236bf5fea790
+      internalID: -186510280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 434
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d138dfe8c7577641b1a634a653982c4
+      internalID: 2041572767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_73
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 434
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aadb34a70409414a8073b7e2ea210da
+      internalID: 1450995820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_74
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 434
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7970e440e9de39d429e5d4d4bfd1a726
+      internalID: -953318980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_75
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 434
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fa29218ecd3c14586bc5eb177578b7
+      internalID: -724229881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_76
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 434
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b8aca27dccb5e49aa371ed950d17ee
+      internalID: -1274368817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_77
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 434
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1413cc4747048478578e2eda3d432a
+      internalID: 1813263975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d79087e04c00da4694e6dbcbd20b23c
+      internalID: 1816124450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_79
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 217
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4b3901b30ebb24a8365501f502ca9f
+      internalID: 764401288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_80
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 217
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6036d7f8ac7dd14d91b72a59dfe8224
+      internalID: -665836022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_81
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 217
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9085b588c06554cb4b8b68e12133f8
+      internalID: 49756339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_82
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 217
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409a2c5529ef909449de8b9c15a81076
+      internalID: -1446114077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_83
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 217
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18388c9034f51cd4ab823da346765b67
+      internalID: -2000760136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fe3eb6beee3ff40b3e9b37b87b9834
+      internalID: 639483650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_85
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e227ce1b2ab4e864385547c7d99b71fb
+      internalID: 549245606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_86
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a74d3856d3b8a34f86eb60ece8bd91b
+      internalID: 1088353048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_87
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa40edc1670d0a45b56b4dd79c01b66
+      internalID: -1743335538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_88
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4be34c9f61a8aa4db6c97162bb8b114
+      internalID: 775453029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_notext_atlass_89
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 700
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a788106092472d4e98a24f6af2f1703
+      internalID: 1383286754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      button_notext_atlass_46: -796286589
+      button_notext_atlass_63: 1640267312
+      button_notext_atlass_82: -1446114077
+      button_notext_atlass_33: -1899080012
+      button_notext_atlass_5: 1296138262
+      button_notext_atlass_26: -919457195
+      button_notext_atlass_66: 1225741480
+      button_notext_atlass_25: -519110973
+      button_notext_atlass_11: 1000554737
+      button_notext_atlass_48: 1088225906
+      button_notext_atlass_28: -1798077407
+      button_notext_atlass_64: -1605157585
+      button_notext_atlass_29: 214810327
+      button_notext_atlass_69: -1395085965
+      button_notext_atlass_56: -1001785886
+      button_notext_atlass_68: -1551074609
+      button_notext_atlass_79: 764401288
+      button_notext_atlass_0: -799209819
+      button_notext_atlass_20: -1129575224
+      button_notext_atlass_34: -660987237
+      button_notext_atlass_81: 49756339
+      button_notext_atlass_47: 739023227
+      button_notext_atlass_53: 1779082642
+      button_notext_atlass_75: -724229881
+      button_notext_atlass_65: 576760652
+      button_notext_atlass_70: -749816500
+      button_notext_atlass_38: 287328129
+      button_notext_atlass_59: -1123497409
+      button_notext_atlass_8: 650280988
+      button_notext_atlass_14: 1227026435
+      button_notext_atlass_67: -1733033179
+      button_notext_atlass_52: 2114264581
+      button_notext_atlass_15: -2124860477
+      button_notext_atlass_50: -1186519414
+      button_notext_atlass_51: 1349170117
+      button_notext_atlass_4: 583501240
+      button_notext_atlass_40: -919367281
+      button_notext_atlass_83: -2000760136
+      button_notext_atlass_7: -39258280
+      button_notext_atlass_60: 796664155
+      button_notext_atlass_16: 664922157
+      button_notext_atlass_31: -524576926
+      button_notext_atlass_77: 1813263975
+      button_notext_atlass_89: 1383286754
+      button_notext_atlass_27: 77415372
+      button_notext_atlass_37: -1465915492
+      button_notext_atlass_9: 161506933
+      button_notext_atlass_80: -665836022
+      button_notext_atlass_61: 1283989608
+      button_notext_atlass_39: 1467776267
+      button_notext_atlass_24: -1578124197
+      button_notext_atlass_18: -1073944977
+      button_notext_atlass_62: -316047355
+      button_notext_atlass_54: 543328182
+      button_notext_atlass_13: -843318876
+      button_notext_atlass_19: 1200312000
+      button_notext_atlass_73: 1450995820
+      button_notext_atlass_74: -953318980
+      button_notext_atlass_49: -1582706288
+      button_notext_atlass_71: -186510280
+      button_notext_atlass_2: 861062241
+      button_notext_atlass_84: 639483650
+      button_notext_atlass_17: 2075610519
+      button_notext_atlass_86: 1088353048
+      button_notext_atlass_3: 990867558
+      button_notext_atlass_42: -1622757179
+      button_notext_atlass_45: 1327464642
+      button_notext_atlass_55: 1730254787
+      button_notext_atlass_1: -683245037
+      button_notext_atlass_87: -1743335538
+      button_notext_atlass_76: -1274368817
+      button_notext_atlass_22: -574087810
+      button_notext_atlass_36: -1042243495
+      button_notext_atlass_44: 1402176970
+      button_notext_atlass_78: 1816124450
+      button_notext_atlass_23: 167351804
+      button_notext_atlass_21: -2119703637
+      button_notext_atlass_43: 164692793
+      button_notext_atlass_85: 549245606
+      button_notext_atlass_72: 2041572767
+      button_notext_atlass_88: 775453029
+      button_notext_atlass_6: 1966465408
+      button_notext_atlass_57: 591323094
+      button_notext_atlass_32: -1039308347
+      button_notext_atlass_12: -1856167401
+      button_notext_atlass_35: 1944537759
+      button_notext_atlass_10: -775239541
+      button_notext_atlass_41: -988100683
+      button_notext_atlass_58: -213579480
+      button_notext_atlass_30: -1580529629
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
